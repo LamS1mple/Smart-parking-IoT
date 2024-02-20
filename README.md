@@ -1,2 +1,1 @@
-# IoT_BaiTapLon
-# IoT_BaiTapLon
+Demo sản phẩm: https://www.youtube.com/watch?v=ep45JiIcWLs
